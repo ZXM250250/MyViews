@@ -1,2 +1,4 @@
+include ':myapplication2'
+include ':myapplication'
 include ':app'
 rootProject.name = "MyViews"
