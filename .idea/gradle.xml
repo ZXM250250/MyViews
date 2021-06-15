@@ -12,6 +12,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/context-menu-android" />
+            <option value="$PROJECT_DIR$/context-menu-android-" />
+            <option value="$PROJECT_DIR$/likeanimview" />
             <option value="$PROJECT_DIR$/myapplication" />
             <option value="$PROJECT_DIR$/myapplication2" />
           </set>
