@@ -1,3 +1,4 @@
+include ':waveswiperefreshlayout'
 include ':likeanimview'
 include ':context-menu-android-'
 include ':context-menu-android'
